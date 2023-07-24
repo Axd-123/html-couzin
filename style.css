@@ -1,0 +1,70 @@
+
+.Group{
+    text-align: center;
+    color: black;
+    background-color: cadetblue;
+    font-size: 35pt;
+    font-style: oblique;
+
+}
+#Group{
+    text-align: center;
+    color: black;
+    background-color: bisque;
+    font-size: 35pt;
+    font-style: oblique;
+
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+    font-size:25pt ;
+    color: black;
+    background-color: bisque;
+}
+
+
+
+
+#value{
+    text-align: center;
+    color: black;
+    font-size: 55pt;
+    font-style: italiC;
+}
+
+
+
+
+
+
+
+.grid-container{
+    display: inline grid;
+
+}
+.grid-item
+{
+    font-size: 20pt;
+    font-style: oblique;
+    text-align: center;
+    padding: 20px;
+  
+    
+}
+
+
+footer{
+    
+    font-size: 25pt;
+    color: black;
+    background-color: burlywood;
+    text-align: center;
+    text-transform: uppercase;
+    text-anchor: middle;
+    
+}
+
+
+
+
